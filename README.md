@@ -1,3 +1,3 @@
 # Class02
-
-Hi Swift，I add Class02 to GitHub.
+作業02
+I add Class02 to GitHub.
